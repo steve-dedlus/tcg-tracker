@@ -1,3 +1,10 @@
+# User-defined
+# Do not push data to the repository
+data/raw/*.csv
+data/images/*.jpg
+data/images/*.jpeg
+data/images/*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
